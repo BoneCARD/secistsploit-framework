@@ -5,6 +5,7 @@ verify_ssl = true
 
 [dev-packages]
 prompt-toolkit = "*"
+autopep8 = "*"
 
 [packages]
 prompt-toolkit = "*"
